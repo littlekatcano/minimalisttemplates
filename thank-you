@@ -92,7 +92,7 @@
                             <div class="spacer" style="height:20px;"></div>
                         </div>
                         <div class="bee-block bee-block-2 bee-html-block">
-                            <!-- The banner acting as a button --><a href="https://drive.google.com/uc?export=download&id=1c7VVXmOFCxDX-RcEci6V7JxEWg7tGJB5" onclick="openNewTab(); return true;"><img alt="Banner" src="images/2.jpg" style="width: 100%;"/></a>
+                            <!-- The banner acting as a button --><a href="https://drive.google.com/uc?export=download&id=1c7VVXmOFCxDX-RcEci6V7JxEWg7tGJB5" onclick="openNewTab(); return true;"><img alt="Banner" src="images/pdf.jpg" style="width: 100%;"/></a>
                             <script>
 							function openNewTab() {
 								// Open a new tab with the specified URL
